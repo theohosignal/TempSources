@@ -1,0 +1,103 @@
+The KGB Hack
+Sources, Images and Attributions
+(this page is temporary, a more elaborate version will follow)
+
+
+#####		1. Quotes, Newspapers, Data	#####
+
+0:00+	The Cuckoo's Egg by Clifford Stoll (1989, Doubleday)
+
+0:00+ 	Vor 30 Jahren – der KGB-Hack fliegt auf (2019, Heise)
+		https://www.heise.de/newsticker/meldung/Vor-30-Jahren-der-KGB-Hack-fliegt-auf-4324110.html
+		
+0:00+	Stalking the Wily Hacker by Clifford Stoll, published in
+		Communications of the ACM, May 1988, Vol. 31, No. 5
+
+4:19	ARPANET INFORMATION BROCHURE (NIC 50003) Defense Communications Agency (1985)
+
+5:58	Hamburger Abendblatt, 04/05-03-1989
+
+6:04	BILD Zeitung, 04-03-1989
+
+
+##### 		2. Images 					#####
+
+0:04,	Karl Koch, via picture-alliance/dpa 
+1:15
+
+0:23	Karl Koch, published in unknown magazine
+
+0:23	Markus Hess, via picture-alliance/dpa 
+
+0:32 	Peter Carl, via WGBH (NOVA), 1990
+
+0:40	Leipzgerstrasse, East Berlin, DDR 1985 Summer by Akitoshi Iio, 
+		published to Wikipedia Commons ( https://commons.wikimedia.org/wiki/File:Leipzgerstrasse,_East_Berlin,_DDR_1985_Summer.jpg )
+		
+1:40	Aerial view of the Pentagon by the U.S. Navy, 2003
+		published to Wikipedia Commons ( https://commons.wikimedia.org/wiki/File:US_Navy_030926-F-2828D-089_Aerial_view_of_the_Pentagon.jpg )
+		
+1:54	Underdog's MiniNet, by Crater Rim Software (1988), via textfiles.com
+
+4:08	MILNET in the United States (1989), United States Department of Defense
+		published to Wikipedia Commons ( https://en.wikipedia.org/wiki/MILNET#/media/File:MILNET-US-Geographical-1989.jpg )
+
+
+#####		3. Video & Audio			#####
+
+0:17	Soviet documentary film on the EC-1046, original source unknown.
+		Published by Computer History Archives Project (Year unknown)
+		
+0:03,	Cebit archival footage of Karl Koch, NDR (Year unknown)
+1:06
+
+1:11	23 (1998), Official Trailer
+		Buena Vista International
+		
+1:25,	The KGB, the Computer and Me (1990), WGBH (NOVA)
+2:34,
+4:51,
+5:17,
+5:26
+
+1:31	This Day in Army History-Desert Storm Ground Offensive Begins (1991), US Army DVIDS
+
+1:34	US Navy: Around the Clock and Across the Globe (1988), US Navy
+
+1:36	Space Shuttle STS-51-G Mission Highlights, JSC-874, NASA (1985)
+
+1:43,	Brennpunkt (ARD), 02-03-1989
+5:45
+
+2:06,	Tagesschau (ARD), 02-03-1989
+5:30
+
+2:46,	Panorama (NDR), 1989
+4:27,
+6:08
+
+5:51	Abendschau (RBB), 02-03-1989
+
+#####		4. Music					#####
+
+0:05	Slipstream by Metaphazic
+		( https://soundcloud.com/metaphazic/slipstream )
+		
+1:54	Lands Unknown by Futuremono
+
+5:58	Strt by EVA
+		( https://hypeddit.com/track/m7xmfn , https://www.youtube.com/watch?v=-5pWqXerdA0 )
+
+#####		5. 3D Models				#####
+
+1:59	Old PC by sirleidesign
+6:43    https://www.cgtrader.com/free-3d-models/electronics/computer/old-pc-free
+		
+2:01	Old Telephone by farshid33
+		https://www.cgtrader.com/free-3d-models/interior/office/old-telephone-f1fd86ac-49ed-46da-b421-2e6ac8399ad1
+		
+
+#####		6. Misc						#####
+
+Maps used in this video were created via OpenStreetMap and OpenMapTiles
+https://www.openstreetmap.org/, https://openmaptiles.org/
